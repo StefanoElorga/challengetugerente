@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "challenge-tugerente",
+    "slug": "challenge-tugerente",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "challenge-tugerente"
+}
